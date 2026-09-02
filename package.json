@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "compression": "^1.8.1"
-  }
+    "dependencies":  {
+                         "compression":  "^1.8.1",
+                         "express":  "^5.2.1"
+                     },
+    "scripts":  {
+                    "start":  "node server.js"
+                }
 }
